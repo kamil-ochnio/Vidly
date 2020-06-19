@@ -1,0 +1,4 @@
+﻿PM> enable-migration
+PM> add-migration InitialModel
+add-migration InitialModel -force
+update-database
